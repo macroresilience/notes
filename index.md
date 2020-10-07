@@ -6,4 +6,4 @@ tags: [home]
 
 
 
-[[[z:zettels?timeline]]]
+[[z:zettels?timeline]]
